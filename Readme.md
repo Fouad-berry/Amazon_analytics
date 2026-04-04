@@ -324,6 +324,8 @@ Générés automatiquement par `analysis/eda.py` après exécution du pipeline :
 
 Projet réalisé par **Fouad MOUTAIRTOU**
 
+Portfolio : https://portfolio-fouad.netlify.app/
+
 Stack Utilisé : Python · Pandas · SQLite · Power BI · pytest
 
 ---
